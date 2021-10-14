@@ -1,0 +1,25 @@
+.container-3 {
+  border: 3px solid rgb(0, 0, 0);
+  width: 75%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+
+
+.flex-boxrps {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 10px;
+  flex-direction: row;
+  border: 1px solid blue;
+}
+
+
+
+
+.flex-boxrps img:hover {
+  box-shadow: 0px 10px 50px rgba(90, 3, 3);
+}
